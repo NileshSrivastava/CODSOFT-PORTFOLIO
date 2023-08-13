@@ -1,0 +1,219 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color:rgb(23, 2, 41) ;
+}
+header{
+  background-color:rgb(44, 5, 76) ;
+  font-family: sans-serif;
+  width: 100%;
+  height: 150px;
+  
+}
+nav{
+  
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  }
+nav .logo
+{
+  color:white;
+  font-size: 25px;
+  margin-top: 60px;
+}
+nav  .menu
+{
+ margin:60px; 
+ 
+}
+nav .menu a{
+  cursor: hover;
+  text-decoration: none;
+  color:lavender;
+  margin:0 23px;
+}
+section
+{
+
+  background-color:rgb(23, 2, 41) ;
+  height:400px;
+  width: 100%;
+
+}
+section .container
+{ 
+  background-color: rgb(100, 89, 105);
+  height: 250px;
+}
+section .container .left
+{
+  height: 250px;
+  width:50%;
+ float: left;
+  
+ background-color:rgb(23, 2, 41) ;
+
+  color:lavender;
+}
+section .container .right
+{
+  height: 250px;
+  width:50%;
+  float:right;
+  
+  background-color:rgb(23, 2, 41) ;
+}
+#he
+{
+  color:lavender;
+  margin-top:55px;
+  margin-left: 220px;
+  font-size: 45px;
+}
+#pe{
+  margin-left: 220px;
+font-size: 25px;
+}
+section .container .left .bt 
+{
+
+  margin-left: 220px;
+  border: none;
+  height: 24px;
+  background-color: lavender;
+  border-radius: 11px;
+  width: 150px;
+  font-size: 14px;
+}
+img{
+  margin-top:55px;
+  margin-left: 220px;
+  border-radius: 450px;
+  border:lavender solid 5px;
+}
+.skills
+{
+  color: lavender;
+}
+main p{
+  background-color:rgb(23, 2, 41) ;
+  font-size: 25px;
+  height:400px;
+  width: 100%;
+}
+.skills
+{
+  float: left;
+}
+.icon
+{
+  background-color:rgb(23, 2, 41) ;
+  float:right;
+}
+skills h3
+{
+  font-size: 95px;
+}
+h1{
+  margin-left: 220px;
+  color: lavender;
+}
+.icons
+{
+ 
+  line-height: 3;
+}
+.icons i{
+  cursor: hover;
+  font-size: 25px;
+  margin:0 10px;
+}
+article{
+  
+  margin-top: 110px;
+ 
+}
+article  h1{
+  margin-top: 70px;
+  color: lavender;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+article p{
+  color:lavender;
+  margin-left:220px;
+  margin-right: 180px;
+}
+#x
+{
+  mix-blend-mode: lighten;
+}
+.l1
+{
+ 
+  height: 250px;
+  width:50%;
+ float: left;
+}
+.r1
+{
+  
+  color:lavender;
+  margin-top: 10px;
+  height: 250px;
+  width:50%;
+ float: right;
+}
+.r1 form{
+  margin-top: 50px;
+}
+#nt
+{
+  margin-left: 50px;
+  width: 100px;
+  border: none;
+  color: rgb(3, 3, 9);
+  font-size: 14px;
+  background-color: lavender;
+  border-radius: 11px;
+  height: 24px;
+
+}
+footer
+{
+  background-color:rgb(44, 5, 76) ;
+  font-family: sans-serif;
+  width: 100%;
+  height: 150px;
+  
+}
+footer .io 
+{
+  margin-top: 55px;
+  margin-right: 30px;
+  float:right;
+}
+footer .io a
+{
+  margin:0 3px;
+}
+footer p{
+  margin-bottom: 1px;
+  color:lavender;
+}
+ footer .last
+{
+  margin-top: 100px;
+}
+footer .ic
+{
+  font-size: 10px; 
+   margin-top: 45px;
+  margin-left: 30px;
+  float:left;
+}
